@@ -5,3 +5,5 @@ Hello it java updated file..
 >>>>>>> bugfix
 
 Hello this is shell script file...
+
+Hello I am updating the file in the master branch in shell repo..
