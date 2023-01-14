@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 updated in master branch
+=======
+It is Java related file..
+>>>>>>> bugfix
 
 Hello This is java related file...
